@@ -1,2 +1,2 @@
 # MC-Mod-Updater
-A simple yet effective Minecraft mod updater make in python 3.11.8.
+A simple yet effective Minecraft mod updater made in python 3.11.8.
